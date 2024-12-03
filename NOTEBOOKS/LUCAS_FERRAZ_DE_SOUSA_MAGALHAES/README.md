@@ -4,7 +4,7 @@
 01567915    
 
 ## Área de Interesse
-Mobile, Nuuvem
+Mobile, Nuvem
 
 ## Informações Relevantes
 Desenvolvedor Mobile

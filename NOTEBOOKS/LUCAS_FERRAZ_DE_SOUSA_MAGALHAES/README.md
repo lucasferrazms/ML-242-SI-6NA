@@ -4,7 +4,7 @@
 01567915    
 
 ## Área de Interesse
-Backend, Nuuvem
+Mobile, Nuuvem
 
 ## Informações Relevantes
 Desenvolvedor Mobile
